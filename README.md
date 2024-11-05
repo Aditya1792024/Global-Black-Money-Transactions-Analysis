@@ -18,6 +18,8 @@
   <li>Identify the most preferred tax haven countries.</li> 
   <li>List the top 200 individuals involved in high-amount black money transactions.</li> 
   <li>List the top 2 transaction types based on the total number of shell companies involved per transaction.</li> 
+  <li>Filter out transaction records which are not reported by authority yet.</li> 
+  <li>Give country-wise percentage of reported transactions.</li> 
 </ol>
 <h3>Learning Outcomes:</h3>
 <p>This project provided me with an excellent introduction to the SQL language, allowing me to understand various topics and concepts in SQL more clearly. It also gave me the opportunity to refresh and apply the theoretical knowledge I acquired during my learning journey. </p>
